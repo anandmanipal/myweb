@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+
+<h1> Phase Transition: Notes</h1>
+
+
+
+<h2>What is the spontaneously broken symmetry group for the liquid-gas ? </h2> 
+
+<p>Landau's phenomenology of spontaneous symmetry breaking is applicable
+when the phase transition is continuous (of second order). The liquid
+gas transition is of first order (both liquid and gaseous states can
+coexist right at the critical point, and are metastable in a finite
+region around the transition; think of vapor bubbles in a boiling pot
+of water).
+
+A first order transition is noticeable not because there is a
+structural change in the medium, but because there is a sudden change
+in the medium. The macroscopic property that changes can still play the
+role of an order parameter, though. For the liquid gas transition, it
+is the density. As a vapor is cooled down or put under increasing
+pressure, at some point it becomes more energetically favorable for it
+to be at a higher density. The finite jump in the density gives the
+transition its discontinuous (first order) character. However, at
+higher temperatures and pressures, this density jump disapears and so
+does the actual transition.
+
+It is worth mentioning that at zero temperature, a continuous
+transition is possible without any symmetry breaking. In such a
+situation, one is said to have found a Quantum Critical Point. It's a
+hot reasearch topic in current condensed matter physics. Some people
+believe that superconductivity is hiding such a quantum critical point
+on the phase diagram of the cuprate high temperature superconductors.
+</p>
+
+<p>There IS symmetry breaking around the Quantum Critical Point. For 2+1D
+nonlinear sigma model phase transition is controlled by varying the
+spin stiffness at zero temperature.
+
+The real example of departure from the conventional Landau's paradigm
+is the fractional quantum hall effect, where the ground state is the
+Laughlin state. There is a gap between the ground state and the excited
+states, without the typical gapless Goldstone modes.</p>
+
+<p> Amorphous ice is an example of a metastable phase. It represents a local minimum of the free energy, but not the global minimum. </p>
+
+<div class="math" id="equation-single-spin-partition-function">
+<span class="eqno">(9)</span>\[Z = e^{H/kT} + e^{-H/kT}\]</div>
+<p>The average value of the spin is</p>
+<div class="math" id="equation-single-spin-average">
+
+<a href = "http://web.mit.edu/8.334/www/grades/projects/projects10/AlexanderPapageorge/Page5.html" >Criticality</a><p>
+
+<a href = "https://web.stanford.edu/~peastman/statmech/phasetransitions.html"> Phase Transitions</a>
+
+<h1> First Three Min</h1>
+<p>One truly fascinating consequence of modem theories of
+elementary particles is that the universe may have suffered
+a phase transition, like the freezing of water when it falls
+below 273° K (=0°C). This phase transition is associated
+not with the strong interactions, but with the other class of
+short-range interaction in particle physics, the weak interactions. <br>
+CRITICAL TEMPERATURE The temperature at which a phase
+transition occurs. <br/>
+PHASE TRANSITION The sharp transition of a system from one
+configuration to another, usually with a change in symmetry.
+Examples include melting, boiling, and the transition from
+ordinary conductivity to superconductivity.</p>
+
+<p>  Here, the term <b>phase</b> is refer as a states of matter. For example, water can exist in liquid, solid, and gas phases. In each phase, the water molecules interact differently, and the aggregate of many molecules has distinct physical properties. Condensed matter systems can have interesting and exotic phases, such as superfluid, superconducting, and quantum critical phases. Quantum fields such as the Higgs field can also exist in different phases.</p>
+
+
+<h1> Superconductivity - A very short Introduction</h1>
+
+<b>Phase transitions</b> <br/>
+<p>When an ice cube melts, or the water in a kettle boils, there is said
+to be a phase transition. Solid ice changes to liquid water, or liquid
+water changes to gaseous steam. Phase transitions are rather
+unusual phenomena: water at 308C is not very different to water at
+288C, it’s just a bit warmer. The molecules wiggle around a bit
+faster, but there is a continuum that exists between water at 288C
+and water at 308C. However, there is something very, very different
+between water at 18C and ice at 18C. The two things are entirely
+different. Passing through the phase transition at 08C, when water
+freezes, changes its nature discontinuously. </p>
+
+<p>Another example is what is known as a ferromagnet, which is a
+material which can exhibit spontaneous magnetism. A good
+example of a ferromagnet is iron. Iron can display spontaneous
+magnetism: all the tiny atomic magnets in a piece of iron can point
+in the same direction (the left-hand picture in Figure 17), making
+the piece of iron magnetic; paper clips will stick to it! However, if
+you warm the piece of iron up to very high temperature (above
+1043K, which is 7708C), it will lose its magnetism when you pass
+through the ferromagnetic transition temperature (called the Curie
+point, in honour of the French physicist Pierre Curie, whose more
+famous wife, Marie Curie, is known for her discovery of radium).
+At high temperature, all the little atomic magnets will point
+randomly (the right-hand picture in Figure 17). This change
+between magnetic and non-magnetic states at the Curie point is
+another example of a phase transition.</p>
+
+<h1>Bertrand Russell’s Ten Commandments of Critical Thinking and Democratic Decency</h1>
+<ol>
+<li>Do not feel absolutely certain of anything.</li> 
+<li> Do not think it worth while to proceed by concealing evidence, for the evidence is sure to come to light.</li> 
+<li> Never try to discourage thinking for you are sure to succeed.</li> 
+<li> When you meet with opposition, even if it should be from your husband or your children, endeavor to overcome it by argument and not by 	authority, for a victory dependent upon authority is unreal and illusory.</li> 
+<li> Have no respect for the authority of others, for there are always contrary authorities to be found.</li> 
+<li> Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</li> 
+<li> Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.</li> 
+<li> Find more pleasure in intelligent dissent than in passive agreement, for, if you value intelligence as you should, the former implies a deeper agreement than the latter.</li> 
+<li> Be scrupulously truthful, even if the truth is inconvenient, for it is more inconvenient when you try to conceal it.</li> 
+<li> Do not feel envious of the happiness of those who live in a fool’s paradise, for only a fool will think that it is happiness.</li> 
+</ol>
+</body>
+</html>
